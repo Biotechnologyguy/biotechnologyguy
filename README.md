@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biotechnologyguy" alt="biotechnologyguy" /></a> </p>
 
-- 🔭 I’m currently working on **Learning React**
+- 🔭 I’m currently working on **Java, Javascript, React-js & Next-js**
 
-- 🌱 I’m currently learning **advanced HTML, Advanced CSS, JavaScript, react and Next.js**
+- 🌱 I’m currently learning **Advanced CSS, Python & Next.js**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **Next-js Projects**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biotechnologyguy](https://github.com/Biotechnologyguy)
 
 - 📝 I regularly write articles on [https://biotechnologyguy.com](https://biotechnologyguy.com)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, Next-js & JavaScript**
 
 - 📫 How to reach me **founder@biotechnologyguy.com**
 
