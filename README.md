@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biotechnologyguy](https://github.com/Biotechnologyguy)
 
-- 📝 I regularly write articles on [https://biotechnologyguy.com](https://biotechnologyguy.com)
+- 📝 I regularly write articles on [https://biotechnologyguy.com](https://www.biotechnologyguy.com)
 
 - 💬 Ask me about **React, Next-js & JavaScript**
 
