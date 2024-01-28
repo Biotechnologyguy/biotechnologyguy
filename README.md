@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biotechnologyguy&label=Profile%20views&color=0e75b6&style=flat" alt="biotechnologyguy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biotechnologyguy" alt="biotechnologyguy" /></a> </p>
+<p align="left"> <a href="https://github.com/biotechnologyguy"><img src="https://github-profile-trophy.vercel.app/?username=biotechnologyguy&column=9&theme=gruvbox&no-frame=true" alt="biotechnologyguy" /></a> </p>
 
 - 🔭 I’m currently working on **Java, Javascript, React-js & Next-js**
 
