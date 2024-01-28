@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://github.com/Biotechnologyguy](https://github.com/Biotechnologyguy)
 
-- ⚡ Fun fact **I think I am Unstoppable**
+- ⚡ Fun fact: **I think I am Unstoppable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
