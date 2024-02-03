@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Java, Javascript, React-js & Next-js**
 
-- 🌱 I’m currently learning **Advanced CSS, Python & Next.js**
+- 🌱 I’m currently learning **Python, Advanced CSS & Next.js**
 
-- 👯 I’m looking to collaborate on **Next-js Projects**
+- 👯 I’m looking to collaborate on **Python Projects**
 
 - 🤝 I’m looking for help with **Python**
 
