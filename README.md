@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biotechnologyguy&label=Profile%20views&color=0e75b6&style=flat" alt="biotechnologyguy" /> </p>
 
 <p align="left"> <a href="https://github.com/biotechnologyguy"><img src="https://github-profile-trophy.vercel.app/?username=biotechnologyguy&column=9&theme=gruvbox&no-frame=true" alt="biotechnologyguy" /></a> </p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=biotechnologyguy&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotechnologyguy&layout=compact" />
+</div>
 
 - 🔭 I’m currently working on **Java, Javascript, React-js & Next-js**
 
