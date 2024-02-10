@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/biotechnologyguy"><img src="https://github-profile-trophy.vercel.app/?username=biotechnologyguy&column=9&theme=gruvbox&no-frame=true" alt="biotechnologyguy" /></a> </p>
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=biotechnologyguy&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotechnologyguy&layout=compact" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biotechnologyguy&" alt="biotechnologyguy" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=biotechnologyguy&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged_percentage&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotechnologyguy&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biotechnologyguy&theme=gruvbox" alt="biotechnologyguy" />
 </div>
 
 
