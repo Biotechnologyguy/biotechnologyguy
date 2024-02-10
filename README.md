@@ -20,15 +20,15 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Biotechnologyguy](https://github.com/Biotechnologyguy)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Biotechnologyguy)
 
-- 📝 I regularly write articles on [https://biotechnologyguy.com](https://www.biotechnologyguy.com)
+- 📝 I regularly write articles on [Biotechnologyguy](https://www.biotechnologyguy.com)
 
 - 💬 Ask me about **React, Next-js & JavaScript**
 
 - 📫 How to reach me **founder@biotechnologyguy.com**
 
-- 📄 Know about my experiences [https://github.com/Biotechnologyguy](https://github.com/Biotechnologyguy)
+- 📄 Know about my experiences [Github-Profile](https://github.com/Biotechnologyguy)
 
 - ⚡ Fun fact: **I think I am Unstoppable**
 
