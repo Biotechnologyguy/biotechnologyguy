@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [Biotechnologyguy](https://www.biotechnologyguy.com)
 
-- 💬 Ask me about **React, Next-js & JavaScript**
+- 💬 Ask me about **React, Next-js, python & JavaScript**
 
 - 📫 How to reach me **founder@biotechnologyguy.com**
 
