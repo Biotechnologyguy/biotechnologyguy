@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biotechnologyguy&label=Profile%20views&color=0e75b6&style=flat" alt="biotechnologyguy" /> </p>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=biotechnologyguy&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=biotechnologyguy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biotechnologyguy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140" alt="languages graph"  />
