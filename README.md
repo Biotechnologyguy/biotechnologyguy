@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biotechnologyguy&label=Profile%20views&color=0e75b6&style=flat" alt="biotechnologyguy" /> </p>
 
-<p align="left"> <a href="https://github.com/biotechnologyguy"><img src="https://github-profile-trophy.vercel.app/?username=biotechnologyguy&column=9&theme=gruvbox&no-frame=true" alt="biotechnologyguy" /></a> </p>
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=biotechnologyguy&count_private=true&include_all_commits=true&hide=contribs&show=prs_merged_percentage&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biotechnologyguy&layout=compact&theme=gruvbox" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biotechnologyguy&theme=gruvbox" alt="biotechnologyguy" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=biotechnologyguy&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=biotechnologyguy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biotechnologyguy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=biotechnologyguy&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biotechnologyguy&radius=16&theme=gruvbox&area=true&order=5&custom_title=My%20Activity%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 
