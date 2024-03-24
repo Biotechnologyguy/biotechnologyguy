@@ -10,7 +10,7 @@
   <img src="https://streak-stats.demolab.com?user=biotechnologyguy&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-- 🔭 I’m currently working on **Java, Javascript, React-js & Next-js**
+- 🔭 I’m currently working on **Java, Javascript, React-js, python & Next-js**
 
 - 🌱 I’m currently learning **Python, Advanced CSS & Next.js**
 
