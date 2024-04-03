@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Biotechnologyguy)
+- 👨‍💻 All of my public projects are available at [Github](https://github.com/Biotechnologyguy)
 
 - 📝 I regularly write articles on [Biotechnologyguy](https://www.biotechnologyguy.com)
 
