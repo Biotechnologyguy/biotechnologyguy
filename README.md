@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Java, Javascript, React-js, python & Machine Learning**
 
-- 🌱 I’m currently learning **Python, Advanced CSS & Next.js**
+- 🌱 I’m currently learning **Python, & Next.js**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
