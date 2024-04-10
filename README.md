@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Python**
-
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/Biotechnologyguy)
 
 - 📝 I regularly write articles on [Biotechnologyguy](https://www.biotechnologyguy.com)
