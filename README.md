@@ -24,8 +24,6 @@
 
 - 📫 How to reach me **founder@biotechnologyguy.com**
 
-- 📄 Know about my experiences [Github-Profile](https://github.com/Biotechnologyguy)
-
 - ⚡ Fun fact: **I think I am Unstoppable**
 
 <h3 align="left">Connect with me:</h3>
