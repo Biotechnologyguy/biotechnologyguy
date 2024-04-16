@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning & Next.js**
 
-- 👯 I’m looking to collaborate on **Python Projects**
-
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/Biotechnologyguy)
 
 - 📝 I regularly write articles on [Biotechnologyguy](https://www.biotechnologyguy.com)
